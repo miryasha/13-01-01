@@ -1,0 +1,15 @@
+{
+  "name": "exercise2_magical_schools",
+  "version": "1.0.0",
+  "description": "* **Instructions**     * Copy the schema.sql file into your workbench and run the code     * Run `npm install` in the terminal to install all the dependencies     * Update the connection config (in this case, in `magicSchools.js`) with your database password     * start the server and navigate to http://localhost:8080",
+  "main": "magicSchools.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "^2.18.1"
+  }
+}
